@@ -1,0 +1,14 @@
+C:\Users\owner\source\repos\CannabisWeb\CannabisWeb\bin\Debug\netcoreapp2.1\CannabisWeb.deps.json
+C:\Users\owner\source\repos\CannabisWeb\CannabisWeb\bin\Debug\netcoreapp2.1\CannabisWeb.runtimeconfig.json
+C:\Users\owner\source\repos\CannabisWeb\CannabisWeb\bin\Debug\netcoreapp2.1\CannabisWeb.runtimeconfig.dev.json
+C:\Users\owner\source\repos\CannabisWeb\CannabisWeb\bin\Debug\netcoreapp2.1\CannabisWeb.dll
+C:\Users\owner\source\repos\CannabisWeb\CannabisWeb\bin\Debug\netcoreapp2.1\CannabisWeb.pdb
+C:\Users\owner\source\repos\CannabisWeb\CannabisWeb\obj\Debug\netcoreapp2.1\CannabisWeb.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\CannabisWeb\CannabisWeb\obj\Debug\netcoreapp2.1\CannabisWeb.RazorAssemblyInfo.cache
+C:\Users\owner\source\repos\CannabisWeb\CannabisWeb\obj\Debug\netcoreapp2.1\CannabisWeb.RazorAssemblyInfo.cs
+C:\Users\owner\source\repos\CannabisWeb\CannabisWeb\obj\Debug\netcoreapp2.1\CannabisWeb.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\CannabisWeb\CannabisWeb\obj\Debug\netcoreapp2.1\CannabisWeb.AssemblyInfo.cs
+C:\Users\owner\source\repos\CannabisWeb\CannabisWeb\obj\Debug\netcoreapp2.1\CannabisWeb.RazorTargetAssemblyInfo.cache
+C:\Users\owner\source\repos\CannabisWeb\CannabisWeb\obj\Debug\netcoreapp2.1\CannabisWeb.dll
+C:\Users\owner\source\repos\CannabisWeb\CannabisWeb\obj\Debug\netcoreapp2.1\CannabisWeb.pdb
+C:\Users\owner\source\repos\CannabisWeb\CannabisWeb\obj\Debug\netcoreapp2.1\CannabisWeb.csprojAssemblyReference.cache
